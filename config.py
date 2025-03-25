@@ -79,14 +79,14 @@ autoclean = []
 confirmer = {}
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://graph.org/file/cb9394eec3d0ebce858f9.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/hm68sz.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://graph.org/file/8923c5aa996caae406ee3.jpg"
+    "PING_IMG_URL", "https://files.catbox.moe/hm68sz.jpg"
 )
-PLAYLIST_IMG_URL = "https://graph.org/file/7f3ce161b1d30d08cdfd6.jpg"
-STATS_IMG_URL = "https://graph.org/file/424a208d9daaeead02e8b.jpg"
-TELEGRAM_AUDIO_URL = "https://graph.org/file/5a7785d43a18ea2353dc9.jpg"
+PLAYLIST_IMG_URL = "https://files.catbox.moe/hm68sz.jpg"
+STATS_IMG_URL = "https://files.catbox.moe/hm68sz.jpg"
+TELEGRAM_AUDIO_URL = "https://files.catbox.moe/hm68sz.jpg"
 TELEGRAM_VIDEO_URL = "https://graph.org/file/5a7785d43a18ea2353dc9.jpg"
 STREAM_IMG_URL = "https://graph.org/file/5a7785d43a18ea2353dc9.jpg"
 SOUNCLOUD_IMG_URL = "https://graph.org/file/5a7785d43a18ea2353dc9.jpg"
