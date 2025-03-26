@@ -4,7 +4,7 @@ from Fsecmusic import app
 from config import BOT_USERNAME
 
 start_txt = """**
-✪ 𝙁𝘼𝙇𝘾𝙊𝙉 𝙃𝙀𝙍𝙀 ✪
+Nɪɢʜᴛ_sʜᴀᴅᴇ 🎧 [ ɴᴏ ᴀᴅʂ ]
  
  ➲ ᴀʟʟ ʀᴇᴘᴏ ᴇᴀsɪʟʏ ᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ ᴡɪᴛʜᴏᴜᴛ ᴀɴʏ ᴇʀʀᴏʀ ✰
  
@@ -31,13 +31,13 @@ async def start(_, msg):
             ],
      
             [
-             InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/xi_xi_xi_xi_xi_xi"),
-             InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/source_code_network"),
+             InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/ll_ZIDDI_SHAYAR_ll"),
+             InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/addlist/YTfSz81877xlZGNl"),
              ],
      
              [
-             InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ", url="https://t.me/+Y9O5ptuPEFs3NGE1"),          
-             InlineKeyboardButton("︎ᴍᴜsɪᴄ", url=f"https://github.com/codex-ML/CHOCO-MUSIC-API-BOT"),
+             InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ", url="https://t.me/addlist/YTfSz81877xlZGNl"),          
+             InlineKeyboardButton("︎ᴍᴜsɪᴄ", url=f"https://t.me/addlist/YTfSz81877xlZGNl"),
              ],
      
               ]
