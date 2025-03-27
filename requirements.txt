@@ -61,6 +61,6 @@ telegraph
 tgcrypto
 unidecode
 wget
-yt-dlp
+kurigram==2.1.39
 youtube-search
 youtube-search-python
